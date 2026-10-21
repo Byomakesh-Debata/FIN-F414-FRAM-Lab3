@@ -20,7 +20,7 @@ Using `yfinance`, download daily adjusted closing prices for your stock and comp
 
 > **Note on sample length:**
 > - **Volatility estimation (Task 2)** requires a **longer history** (e.g. several years, as in the sample notebook), because rolling windows of up to 200 days and GARCH estimation need many observations before they produce meaningful estimates.
-> - **VaR calculations (Tasks 3–6)** use only the **most recent 200 trading days of daily returns**.
+> - **VaR calculations (Tasks 3-6)** use only the **most recent 200 trading days of daily returns**.
 
 **Report Deliverables:**
 - Stock name, ticker, and brief justification for selection.
